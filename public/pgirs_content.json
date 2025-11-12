@@ -1,0 +1,3124 @@
+{
+  "inicio": {
+    "titulo": "Plan de Gestión Integral de Residuos Sólidos (PGIRS)",
+    "municipio": "San Pedro",
+    "periodo": "2025-2036",
+    "presentacion": [
+      "ACTUALIZACIÓN DEL PLAN DE GESTIÓN INTEGRAL\nDE RESIDUOS SÓLIDOS",
+      "PGIRS",
+      "MUNICIPIO DE SAN PEDRO\nDEPARTAMENTO DEL VALLE DEL CAUCA",
+      "PERIODO 2025-2036",
+      "ALCALDÍA MUNICIPAL DE SAN PEDRO\nSecretaría de Planeación e Infraestructura\n\nSAN PEDRO LIMPIA S.A. E.S.P.\nPrestador del Servicio Público de Aseo\n\nCORPORACIÓN AUTÓNOMA REGIONAL DEL VALLE DEL CAUCA\nCVC - Autoridad Ambiental",
+      "Año 2025\nDocumento Oficial",
+      "DATOS DE IDENTIFICACIÓN DEL PGIRS",
+      "TABLA DE CONTENIDO"
+    ],
+    "objetivos": [
+      "1. INTRODUCCIÓN\n2. OBJETIVOS DEL PGIRS\n   2.1. Objetivo General\n   2.2. Objetivos Específicos\n3. MARCO NORMATIVO Y CONCEPTUAL\n4. INFORMACIÓN GENERAL DEL MUNICIPIO\n5. LÍNEA BASE Y DIAGNÓSTICO\n   5.1. Diagnóstico Técnico y Operativo\n   5.2. Caracterización de Residuos Sólidos\n   5.3. Diagnóstico Socioeconómico\n   5.4. Diagnóstico Ambiental\n   5.5. Diagnóstico Institucional\n   5.6. Diagnóstico Económico y Financiero\n   5.7. Censo de Población Recicladora\n   5.8. Análisis DOFA\n6. PROGRAMAS Y PROYECTOS DEL PGIRS 2025-2036\n   6.1. Programa de Participación Ciudadana y Gobernanza Ambiental (FORTALECIDO)\n   6.2. Programa de Inclusión Social de Recicladores (CONTINUIDAD FORTALECIDA)\n   6.3. Programa de Cultura y Educación Ambiental Innovadora (FORTALECIDO)\n   6.4. Programa de Gestión y Aprovechamiento de Residuos Orgánicos - PGARO (NUEVO)\n7. SECCIÓN FINANCIERA\n   7.1. Presupuesto General Escenario Moderado 2025-2036\n   7.2. Proyección de Subsidios\n   7.3. Presupuestos por Programa\n   7.4. Fuentes de Financiación\n   7.5. Estrategias de Sostenibilidad Financiera\n   7.6. Enfoque en Periodo 2028-2031\n8. MATRIZ DE INDICADORES PARA RESULTADOS (MIR)\n9. PLAN DE IMPLEMENTACIÓN Y CRONOGRAMA\n10. SISTEMA DE SEGUIMIENTO Y EVALUACIÓN\n11. GESTIÓN DE RIESGOS\n12. CONCLUSIONES Y RECOMENDACIONES\n13. GLOSARIO DE TÉRMINOS\n14. CONVERSIONES Y FACTORES TÉCNICOS\n15. REFERENCIAS BIBLIOGRÁFICAS\n16. ANEXOS",
+      "2. OBJETIVOS DEL PGIRS",
+      "2.1. Objetivo General",
+      "2.2. Objetivos Específicos",
+      "Objetivo General: Institucionalizar mecanismos de participación, control social y gobernanza ambiental que incrementen el aprovechamiento, reduzcan la disposición final y mejoren la calidad del servicio de aseo.",
+      "Objetivo General: Fortalecer y formalizar a la asociación ECORECUPERADORES para su participación efectiva, trazable y sostenible en la actividad de aprovechamiento del servicio público de aseo.",
+      "Objetivo General: Transformar comportamientos ciudadanos hacia la separación en la fuente, el consumo responsable y el aprovechamiento de residuos mediante estrategias pedagógicas innovadoras, lúdicas y tecnológicas.",
+      "Objetivo General: Implementar un sistema integral y sostenible que permita tratar el 80% de la fracción orgánica para 2036, transformándola en productos de valor agregado (compost, biofertilizantes) y reduciendo el impacto ambiental."
+    ],
+    "entidades_participantes": [
+      {
+        "nombre": "Alcaldía Municipal de San Pedro",
+        "rol": "Entidad territorial responsable",
+        "dependencia": "Secretaría de Planeación e Infraestructura"
+      },
+      {
+        "nombre": "San Pedro Limpia S.A. E.S.P.",
+        "rol": "Prestador del Servicio Público de Aseo"
+      },
+      {
+        "nombre": "Corporación Autónoma Regional del Valle del Cauca (CVC)",
+        "rol": "Autoridad Ambiental"
+      }
+    ]
+  },
+  "diagnostico": {
+    "titulo": "Diagnóstico",
+    "situacion_actual": [
+      "Diagnóstico General",
+      "El diagnóstico técnico realizado en 2024-2025 identificó que el municipio genera aproximadamente 3.18 toneladas por día de residuos sólidos, con una producción per cápita de 0.413 kg/habitante-día. La caracterización física de residuos evidencia que el 66% corresponde a residuos orgánicos, el 20% a materiales reciclables y el 14% a residuos inservibles, lo que representa una significativa oportunidad de aprovechamiento.\n\nActualmente, el 100% de los residuos recolectados se disponen en el Relleno Sanitario Regional Presidente, ubicado a aproximadamente 5.5 km del casco urbano. Si bien el servicio de recolección alcanza una cobertura del 100% en la zona urbana, se requiere fortalecer la cobertura en la zona rural plana (actualmente en 60-75%) y consolidar los programas de aprovechamiento y separación en la fuente.",
+      "Retos y Oportunidades",
+      "El municipio enfrenta importantes retos en materia de gestión integral de residuos sólidos:",
+      "5. LÍNEA BASE Y DIAGNÓSTICO",
+      "La línea base para la actualización del PGIRS 2025-2036 se construyó mediante la revisión y actualización de la información territorial, ambiental, socioeconómica, institucional y técnico-operativa de la gestión integral de residuos sólidos del municipio de San Pedro.",
+      "5.1. Diagnóstico Técnico y Operativo",
+      "El diagnóstico técnico-operativo evalúa las condiciones actuales de prestación del servicio público de aseo en el municipio de San Pedro.",
+      "Toneladas Dispuestas en 2024",
+      "5.2. Caracterización de Residuos Sólidos",
+      "La caracterización de residuos sólidos del municipio de San Pedro se realizó en 2021 siguiendo la metodología del Centro Panamericano de Ingeniería Sanitaria y Ciencias del Ambiente (CEPIS/OPS).",
+      "5.2.1. Composición General de Residuos",
+      "5.2.2. Composición Residuos Urbanos Domiciliarios",
+      "5.3. Diagnóstico Socioeconómico",
+      "5.3.1. Estratificación Socioeconómica",
+      "Análisis: El 82% de los usuarios pertenecen a estratos 1 y 2, lo que evidencia un municipio de predominio socioeconómico bajo, requiriendo esquemas de subsidios robustos.",
+      "5.8. Análisis DOFA",
+      "Fortalezas",
+      "Cobertura 100% en recolección urbana",
+      "Alta eficiencia de recaudo (98%)",
+      "Disposición final en relleno con licencia ambiental",
+      "Existencia de asociación de recicladores (ECORECUPERADORES)",
+      "Alto potencial de aprovechamiento (66% orgánicos)",
+      "Debilidades",
+      "Ausencia de programas de aprovechamiento estructurados",
+      "Educación ambiental insuficiente",
+      "No hay separación en la fuente generalizada",
+      "Recicladores sin infraestructura propia",
+      "Cobertura rural limitada (60-75%)",
+      "Oportunidades",
+      "Alto potencial aprovechable (86% promedio)",
+      "Normatividad favorable a economía circular",
+      "Posibilidad de cofinanciación (CVC, Nación)",
+      "Mercados locales para compost y reciclables",
+      "Tecnologías de aprovechamiento accesibles",
+      "Amenazas",
+      "Cambios normativos imprevistos",
+      "Incremento continuo de generación per cápita",
+      "Limitaciones presupuestales municipales",
+      "Variabilidad de precios de materiales reciclables",
+      "Resistencia cultural al cambio",
+      "6. PROGRAMAS Y PROYECTOS DEL PGIRS 2025-2036",
+      "El PGIRS San Pedro 2025-2036 se estructura en cuatro programas estratégicos complementarios que abordan integralmente la gestión de residuos sólidos desde un enfoque de economía circular, inclusión social y participación ciudadana:\n\n1. Programa de Participación Ciudadana y Gobernanza Ambiental (FORTALECIDO)\n2. Programa de Inclusión Social de Recicladores (CONTINUIDAD FORTALECIDA)\n3. Programa de Cultura y Educación Ambiental Innovadora (FORTALECIDO)\n4. Programa de Gestión y Aprovechamiento de Residuos Orgánicos - PGARO (NUEVO)",
+      "6.1. Programa de Participación Ciudadana y Gobernanza Ambiental",
+      "CLASIFICACIÓN: FORTALECIDO",
+      "Organizativo y de Formalización: Diagnóstico, estatutos, registro SSPD",
+      "Técnico-Operativo: Rutas selectivas, dotación EPP, ECA/bodega",
+      "Comercial: Acuerdos con comercializadores, contratos con grandes generadores",
+      "Formación y Bienestar: Capacitaciones, seguridad social, programas sociales",
+      "Presupuesto 2025-2036: $1,200 millones COP",
+      "El diagnóstico de caracterización identificó que el 66% de los residuos generados son de origen orgánico (2.10 ton/día). Esta fracción, compuesta por residuos de comida, jardinería y agrícolas, no cuenta actualmente con sistema de gestión. Su disposición en el relleno sanitario genera lixiviados y emisiones de GEI.\n\nEsta alta proporción representa la PRINCIPAL OPORTUNIDAD de aprovechamiento, haciendo del PGARO el PILAR ESTRATÉGICO CENTRAL del PGIRS 2025-2036."
+    ],
+    "problematicas": [],
+    "analisis": [
+      {
+        "tipo": "tabla",
+        "datos": [
+          [
+            "Indicador",
+            "Valor"
+          ],
+          [
+            "Generación diaria total",
+            "3.18 toneladas/día"
+          ],
+          [
+            "Generación anual 2024",
+            "2,735.06 toneladas"
+          ],
+          [
+            "Producción per cápita",
+            "0.413 kg/hab-día"
+          ],
+          [
+            "Frecuencia recolección",
+            "2 veces/semana (martes y viernes)"
+          ],
+          [
+            "Cobertura zona urbana",
+            "100%"
+          ],
+          [
+            "Cobertura zona rural",
+            "60-75% (zona plana)"
+          ],
+          [
+            "Vehículos recolectores",
+            "1 compactador 14 Yd³"
+          ],
+          [
+            "Tipo disposición final",
+            "Relleno Sanitario Regional Presidente"
+          ],
+          [
+            "Distancia al relleno",
+            "5.5 km"
+          ],
+          [
+            "Eficiencia del recaudo",
+            "98%"
+          ]
+        ]
+      },
+      {
+        "tipo": "tabla",
+        "datos": [
+          [
+            "Mes",
+            "Total (ton)",
+            "Urbano (ton)",
+            "Rural (ton)",
+            "Barrido (ton)"
+          ],
+          [
+            "Enero",
+            "262.73",
+            "196.37",
+            "59.32",
+            "7.04"
+          ],
+          [
+            "Febrero",
+            "219.44",
+            "163.78",
+            "49.40",
+            "6.26"
+          ],
+          [
+            "Marzo",
+            "235.08",
+            "178.39",
+            "50.31",
+            "6.38"
+          ],
+          [
+            "Abril",
+            "263.11",
+            "198.87",
+            "56.58",
+            "7.66"
+          ],
+          [
+            "Mayo",
+            "253.33",
+            "185.87",
+            "60.79",
+            "6.67"
+          ],
+          [
+            "Junio",
+            "238.47",
+            "178.92",
+            "51.43",
+            "8.12"
+          ],
+          [
+            "Julio",
+            "241.96",
+            "181.91",
+            "53.24",
+            "6.81"
+          ],
+          [
+            "Agosto",
+            "213.13",
+            "157.77",
+            "48.16",
+            "7.20"
+          ],
+          [
+            "Septiembre",
+            "252.88",
+            "189.45",
+            "55.62",
+            "7.81"
+          ],
+          [
+            "Octubre",
+            "253.61",
+            "191.34",
+            "55.78",
+            "6.49"
+          ],
+          [
+            "Noviembre",
+            "301.32",
+            "230.59",
+            "63.30",
+            "7.43"
+          ],
+          [
+            "TOTAL",
+            "2,735.06",
+            "2,053.26",
+            "603.93",
+            "77.87"
+          ]
+        ]
+      },
+      {
+        "tipo": "tabla",
+        "datos": [
+          [
+            "Tipo de Residuo",
+            "Porcentaje",
+            "Cantidad (ton/día)"
+          ],
+          [
+            "Orgánicos",
+            "66%",
+            "2.10"
+          ],
+          [
+            "Reciclables",
+            "20%",
+            "0.64"
+          ],
+          [
+            "Inservibles",
+            "14%",
+            "0.44"
+          ],
+          [
+            "TOTAL",
+            "100%",
+            "3.18"
+          ]
+        ]
+      },
+      {
+        "tipo": "tabla",
+        "datos": [
+          [
+            "Categoría",
+            "Porcentaje"
+          ],
+          [
+            "Orgánicos (comida cruda)",
+            "44.26%"
+          ],
+          [
+            "Plásticos",
+            "18.17%"
+          ],
+          [
+            "Cartón",
+            "12.04%"
+          ],
+          [
+            "Papel",
+            "11.43%"
+          ],
+          [
+            "Vidrio",
+            "11.00%"
+          ],
+          [
+            "Metales",
+            "1.28%"
+          ],
+          [
+            "Otros",
+            "2.00%"
+          ],
+          [
+            "TOTAL APROVECHABLES",
+            "87.18%"
+          ]
+        ]
+      },
+      {
+        "tipo": "tabla",
+        "datos": [
+          [
+            "Estrato",
+            "Usuarios",
+            "Porcentaje"
+          ],
+          [
+            "Estrato 1",
+            "1,008",
+            "25.00%"
+          ],
+          [
+            "Estrato 2",
+            "2,319",
+            "57.00%"
+          ],
+          [
+            "Estrato 3",
+            "664",
+            "16.00%"
+          ],
+          [
+            "Estrato 4",
+            "46",
+            "1.75%"
+          ],
+          [
+            "Estrato 5",
+            "6",
+            "0.15%"
+          ],
+          [
+            "Estrato 6",
+            "4",
+            "0.10%"
+          ],
+          [
+            "TOTAL",
+            "4,047",
+            "100.00%"
+          ]
+        ]
+      }
+    ]
+  },
+  "estrategias": {
+    "titulo": "Estrategias",
+    "lineas_estrategicas": [
+      "El Plan de Gestión Integral de Residuos Sólidos (PGIRS) 2025-2036 del municipio de San Pedro representa la actualización y fortalecimiento del PGIRS 2021-2032, adoptado mediante Decreto Municipal 158 del 20 de diciembre de 2021. Esta actualización responde a la necesidad de ajustar las estrategias, programas y proyectos del municipio a las dinámicas actuales de generación, aprovechamiento y disposición final de residuos sólidos, en el marco de la economía circular y el desarrollo sostenible.\n\nEl presente documento ha sido elaborado siguiendo la metodología establecida en la Resolución 0754 de 2014 del Ministerio de Vivienda, Ciudad y Territorio (MVCT) y el Ministerio de Ambiente y Desarrollo Sostenible (MADS), y en concordancia con el Decreto 1077 de 2015 (Decreto Único Reglamentario del Sector Vivienda, Ciudad y Territorio).",
+      "Contexto Municipal",
+      "San Pedro es un municipio del departamento del Valle del Cauca, con una población proyectada de 18,136 habitantes (DANE 2024), distribuidos en un 47% en zona urbana y un 53% en zona rural. El municipio cuenta con una extensión territorial de 243 km², organizada en 5 corregimientos y 10 veredas. La prestación del servicio público de aseo está a cargo de la empresa SAN PEDRO LIMPIA S.A. E.S.P. que opera bajo un esquema de contrato de condiciones uniformes y está regulada por la Comisión de Regulación de Agua Potable y Saneamiento Básico (CRA) y supervisada por la Superintendencia de Servicios Públicos Domiciliarios (SSPD).",
+      "Aprovechamiento de Residuos Orgánicos: Con un 66% de la fracción orgánica, es imperativo implementar sistemas de compostaje y biodigestión que reduzcan la presión sobre el relleno sanitario y generen productos de valor agregado (compost, biofertilizantes).",
+      "Inclusión Social de Recicladores: La asociación ECORECUPERADORES requiere fortalecimiento organizacional, infraestructura propia (bodega/ECA) y formalización ante la SSPD para su integración efectiva en la cadena de aprovechamiento.",
+      "Educación Ambiental: Se requiere intensificar las campañas de sensibilización para lograr la separación en la fuente en al menos el 70% de los hogares al 2030 y el 85% al 2036.",
+      "Ampliación de Cobertura Rural: Garantizar el acceso al servicio de aseo en la totalidad de la zona rural plana y evaluar alternativas tecnológicas para la zona rural dispersa de difícil acceso.",
+      "Sostenibilidad Financiera: Optimizar los costos operativos, diversificar las fuentes de financiación y fortalecer la eficiencia del recaudo tarifario.",
+      "5. Implementar el Programa de Gestión y Aprovechamiento de Residuos Orgánicos (PGARO) para tratar el 80% de la fracción orgánica mediante compostaje y biodigestión.",
+      "6. Fortalecer el Programa de Inclusión Social de Recicladores, formalizando a 50 recicladores al 2036 y dotando de infraestructura (ECA/bodega).",
+      "7. Consolidar el Programa de Participación Ciudadana y Gobernanza Ambiental con mecanismos de control social digital y observatorio local.",
+      "8. Desarrollar el Programa de Cultura y Educación Ambiental Innovadora con estrategias lúdico-pedagógicas.",
+      "9. Ampliar la cobertura rural del servicio de aseo del 60-75% actual al 95% en 2036.",
+      "10. Lograr que el 85% de los hogares realicen separación en la fuente para 2036.",
+      "11. Establecer un sistema robusto de seguimiento y evaluación con indicadores verificables.",
+      "12. Garantizar la sostenibilidad financiera del PGIRS mediante la optimización de costos y diversificación de fuentes.",
+      "3. MARCO NORMATIVO Y CONCEPTUAL",
+      "El PGIRS San Pedro 2025-2036 se fundamenta en un sólido marco normativo nacional, departamental y municipal que regula la gestión integral de residuos sólidos en Colombia.",
+      "3.1. Normativa Nacional",
+      "4. INFORMACIÓN GENERAL DEL MUNICIPIO",
+      "San Pedro es un municipio del departamento del Valle del Cauca, ubicado en la región andina de Colombia.",
+      "4.1. Localización",
+      "4.2. Demografía",
+      "Metas Principales 2025-2036:",
+      "6.2. Programa de Inclusión Social de Recicladores",
+      "CLASIFICACIÓN: CONTINUIDAD FORTALECIDA",
+      "Metas de Formalización e Inclusión:",
+      "6.3. Programa de Cultura y Educación Ambiental Innovadora",
+      "CLASIFICACIÓN: FORTALECIDO",
+      "Estrategias Innovadoras:",
+      "Ecorrutas Vivenciales: Recorridos pedagógicos por el sistema de gestión, visitas a planta de compostaje, talleres prácticos. Meta: 2,000 participantes/año desde 2026",
+      "App \"San Pedro Verde\": Aplicación móvil con gamificación, registro de separación con QR, retos ambientales y recompensas. Lanzamiento: 2026",
+      "PRAE Fortalecido: Kits pedagógicos para todas las IE, ferias ambientales, huertas escolares. Meta: 100% IE en 2028",
+      "Campañas Masivas: Radio local, redes sociales, microcontenidos educativos. 2 campañas masivas por semestre",
+      "Talleres Comunitarios: Educación personalizada barrio por barrio, entrega de material POP. Meta: 70% hogares capacitados al 2030",
+      "Presupuesto 2025-2036: $5,806 millones COP",
+      "Indicadores Clave:",
+      "6.4. Programa de Gestión y Aprovechamiento de Residuos Orgánicos",
+      "PGARO - PROGRAMA NUEVO",
+      "Justificación",
+      "Reducción de disposición final (meta -60% relativo para 2036)",
+      "Disminución de lixiviados y emisiones de GEI",
+      "Producción de compost certificado de alta calidad",
+      "Integración de residuos de poda del censo arbóreo municipal",
+      "3. Social y Político",
+      "Inclusión de ECORECUPERADORES en recolección y operación de planta",
+      "Talleres de compostaje casero y comunitario",
+      "Mesas de trabajo interinstitucionales",
+      "Gobernanza participativa del PGARO",
+      "4. Financiero y de Mercados",
+      "Modelo financiero sostenible (tarifas, venta de compost)",
+      "Alianzas con sector agrícola, viveros, empresas paisajistas",
+      "Comercialización a precios competitivos",
+      "Ingresos estimados: $50-80 millones/año a partir de 2030",
+      "Presupuesto 2025-2036: $3,000 millones COP",
+      "Metas de Aprovechamiento de Orgánicos:",
+      "7. SECCIÓN FINANCIERA",
+      "La sostenibilidad financiera del PGIRS es fundamental para garantizar la continuidad y efectividad de los programas. Esta sección presenta el presupuesto consolidado ESCENARIO MODERADO 2025-2036 (~$11,150 millones COP, reducción del 25% respecto al escenario completo), con enfoque especial en el periodo de la próxima administración municipal 2028-2031.",
+      "7.1. Presupuesto General Escenario MODERADO 2025-2036",
+      "Este escenario aplica una reducción del 25% mediante optimización de estrategias, priorización de actividades de alto impacto, trabajo comunitario, tecnologías apropiadas y economías de escala, SIN COMPROMETER la efectividad ni las metas finales.",
+      "Presupuesto Anual Escenario Moderado (Millones COP):",
+      "Análisis del Presupuesto MODERADO:\n• Presupuesto Total 2025-2036: $10,043 millones COP\n• Periodo 2025-2030: $4,461 millones (40.0%)\n• Periodo 2031-2036: $5,582 millones (60.0%)\n• Distribución CAPEX/OPEX: 40.2% inversión / 59.8% operación\n• Promedio anual: $836 millones\n• Reducción respecto a escenario completo: ~25%",
+      "7.3. Presupuestos Optimizados por Programa (Escenario MODERADO)",
+      "Los presupuestos por programa han sido optimizados para maximizar cobertura y calidad sin comprometer la efectividad. Se priorizan estrategias de alto impacto y bajo costo, trabajo comunitario, tecnologías apropiadas y economías de escala.",
+      "Criterios de Optimización Aplicados:",
+      "Educación y Cultura Ambiental (52.1% del presupuesto): Se prioriza por ser el programa transversal que habilita el éxito de los demás. El cambio de comportamiento tiene el mayor retorno.",
+      "Gestión de Residuos Orgánicos (26.9%): Segunda prioridad por el alto volumen (66%). La planta genera ahorros significativos en disposición final.",
+      "Participación y Gobernanza (14.8%): Garantiza legitimidad, transparencia y sostenibilidad política del PGIRS.",
+      "Inclusión de Recicladores (10.8%): Inversión focalizada en formalización, dotación básica e infraestructura mínima (ECA).",
+      "Contingencias (1.7%): Reserva para imprevistos, ajustes normativos o emergencias.",
+      "7.4. Fuentes de Financiación",
+      "El PGIRS se financiará mediante un portafolio diversificado de fuentes que garantice sostenibilidad y reduzca dependencia de una sola fuente.",
+      "7.5. Estrategias de Sostenibilidad Financiera",
+      "Eficiencia Operativa: Optimización de rutas (ahorro 10-15% combustible), mantenimiento preventivo",
+      "Reducción Costos Disposición: Aprovechamiento 80% orgánicos reduce costos en $60-80 M/año. Cada tonelada no dispuesta ahorra $31,438",
+      "Incremento Ingresos: Compost: 50 ton/mes × $100,000/ton × 12 = $60 M/año. Reciclables: $108 M/año. Total: $168 M/año desde 2035",
+      "Ajuste Tarifario Responsable: Actualización anual conforme CRA, transparencia en costos",
+      "Diversificación de Fuentes: No depender de una sola fuente (máximo 50% por fuente)",
+      "Fondo de Contingencia: Reserva del 5% presupuesto anual para imprevistos",
+      "7.6. ENFOQUE ESPECIAL EN PERIODO 2028-2031",
+      "(Periodo de la Próxima Administración Municipal)",
+      "El periodo 2028-2031 es CRÍTICO para el PGIRS, coincidiendo con la próxima administración municipal. Durante estos 4 años se proyecta alcanzar el PUNTO DE EQUILIBRIO operativo y consolidar la infraestructura clave.",
+      "Presupuesto Periodo 2028-2031:",
+      "Hitos Clave 2028-2031:",
+      "2028: Planta de compostaje operativa a plena capacidad (32 ton/mes)",
+      "2028: ECA de recicladores totalmente equipada y formalizada ante SSPD",
+      "2028: 100% de IE con PRAE fortalecido",
+      "2028: 60% de hogares separando en la fuente",
+      "2029: Aprovechamiento de orgánicos alcanza 50%",
+      "2029: Cobertura rural ampliada a 90%",
+      "2030: Reducción de 35% en disposición final",
+      "2030: Ingresos por venta de compost: $60 M/año",
+      "2031: Punto de equilibrio operativo: ingresos por aprovechamiento + ahorros cubren 35-40% OPEX",
+      "2031: 14 ton/mes de reciclables captados por ECORECUPERADORES",
+      "2031: Observatorio de residuos con datos abiertos operativo",
+      "Conclusión: El periodo 2028-2031 representa el 29% del presupuesto total ($3,236 M) y el 100% de la infraestructura estratégica será puesta en marcha. Es el periodo donde se materializa la transición hacia la economía circular y se alcanza la sostenibilidad del modelo.",
+      "8. MATRIZ DE INDICADORES PARA RESULTADOS (MIR)",
+      "La Matriz de Indicadores para Resultados (MIR) establece los indicadores estratégicos para el seguimiento y evaluación del PGIRS, organizados en cuatro niveles: Impacto, Resultado, Producto y Gestión.",
+      "Indicadores Estratégicos del PGIRS 2025-2036:",
+      "9. PLAN DE IMPLEMENTACIÓN Y CRONOGRAMA",
+      "El plan de implementación del PGIRS se estructura en cuatro fases estratégicas alineadas con los periodos administrativos municipales:",
+      "FASE I - Fortalecimiento (2025-2027)",
+      "Institucionalidad: Consejo Municipal, mesas temáticas",
+      "Capacitación: Promotores ambientales, recicladores",
+      "Dotación: EPP, equipos, señalética",
+      "Pilotajes: Compostaje comunitario, rutas selectivas fortalecidas",
+      "FASE II - Implementación (2027-2030)",
+      "Infraestructura: Planta de compostaje, ECA de recicladores",
+      "Ampliación cobertura rural: 60% → 90%",
+      "Escalamiento educación: 100% IE con PRAE",
+      "Formalización: 32 recicladores, registro SSPD",
+      "FASE III - Consolidación (2030-2034)",
+      "Optimización tecnológica: Biodigestores, mejoras planta",
+      "Mejora continua: Ajustes operativos basados en indicadores",
+      "Certificaciones: Compost, sistemas de gestión",
+      "Fortalecimiento comercial: 8+ convenios agrícolas",
+      "FASE IV - Sostenibilidad (2034-2036)",
+      "Modelo maduro: Operación autosostenible",
+      "Replicabilidad: Sistematización de buenas prácticas",
+      "Reconocimientos: Certificaciones, premios nacionales",
+      "Transferencia: Apoyo a municipios vecinos",
+      "10. SISTEMA DE SEGUIMIENTO Y EVALUACIÓN",
+      "El sistema de seguimiento y evaluación del PGIRS garantiza el cumplimiento de metas mediante mecanismos de monitoreo permanente, evaluaciones periódicas y ajustes correctivos.",
+      "Mecanismos de Seguimiento:",
+      "Reportes Trimestrales: Avance de indicadores, ejecución presupuestal, alertas tempranas",
+      "Auditorías Externas Bienales: Evaluación independiente de cumplimiento, calidad técnica, transparencia",
+      "Observatorio Local de Residuos: Dashboard digital con indicadores en tiempo real, acceso público",
+      "Veeduría Ciudadana: Participación comunitaria en control social, reportes de ciudadanos",
+      "Evaluación de Medio Término (2030): Evaluación exhaustiva con recomendaciones de ajuste",
+      "Evaluación Final (2036): Evaluación de impacto, lecciones aprendidas, recomendaciones futuro PGIRS",
+      "11. GESTIÓN DE RIESGOS",
+      "Matriz de Riesgos Identificados:",
+      "12. CONCLUSIONES Y RECOMENDACIONES",
+      "Conclusiones:",
+      "1. El PGIRS 2025-2036 representa una actualización integral que prioriza la economía circular y el aprovechamiento de residuos.",
+      "2. El 66% de residuos orgánicos constituye la principal oportunidad, justificando el PGARO como eje central.",
+      "3. El escenario MODERADO ($11,143 millones) es técnicamente viable y financieramente sostenible.",
+      "4. El periodo 2028-2031 es crítico: se consolida infraestructura y se alcanza punto de equilibrio operativo.",
+      "5. La inclusión de recicladores y la gobernanza participativa garantizan legitimidad social del plan.",
+      "6. Las metas al 2036 (80% aprovechamiento, 85% separación, 60% reducción disposición) son ambiciosas pero alcanzables.",
+      "Recomendaciones:",
+      "1. Adoptar el PGIRS mediante Decreto Municipal en el ultimo trimestre de 2025.",
+      "2. Asignar presupuesto plurianual garantizando continuidad entre administraciones.",
+      "3. Conformar el Consejo Municipal de Reciclaje en los primeros 6 meses de 2026.",
+      "4. Iniciar gestión de cofinanciación con CVC y MinVivienda desde 2025.",
+      "5. Priorizar la construcción de la planta de compostaje en 2026-2028.",
+      "6. Fortalecer capacidades técnicas del equipo municipal en gestión de residuos.",
+      "7. Implementar el Observatorio Local con plataforma digital en 2026.",
+      "8. Realizar evaluación de medio término rigurosa en 2030 para ajustes necesarios.",
+      "13. GLOSARIO DE TÉRMINOS",
+      "Aprovechamiento: Proceso mediante el cual los materiales recuperados se reincorporan al ciclo económico.",
+      "CAPEX: Gastos de capital o inversión en activos fijos.",
+      "Caracterización: Determinación de características de los residuos sólidos.",
+      "Compostaje: Proceso biológico aerobio de descomposición de materia orgánica.",
+      "CRA: Comisión de Regulación de Agua Potable y Saneamiento Básico.",
+      "CVC: Corporación Autónoma Regional del Valle del Cauca.",
+      "Disposición final: Proceso de aislar residuos en forma definitiva.",
+      "ECA: Estación de Clasificación y Aprovechamiento.",
+      "Economía circular: Modelo que maximiza aprovechamiento y minimiza residuos.",
+      "ECORECUPERADORES: Asociación de recicladores de San Pedro.",
+      "GEI: Gases de Efecto Invernadero.",
+      "Lixiviados: Líquido de percolación de agua a través de residuos.",
+      "MIR: Matriz de Indicadores para Resultados.",
+      "OPEX: Gastos operativos recurrentes.",
+      "PGARO: Programa de Gestión de Residuos Orgánicos.",
+      "PGIRS: Plan de Gestión Integral de Residuos Sólidos.",
+      "PPC: Producción Per Cápita (kg/habitante-día).",
+      "PRAE: Proyecto Ambiental Escolar.",
+      "Relleno sanitario: Sitio de disposición final con licencia ambiental.",
+      "Separación en la fuente: Clasificación de residuos en el sitio de generación.",
+      "SIG: Sistema de Información Geográfica.",
+      "SSPD: Superintendencia de Servicios Públicos Domiciliarios.",
+      "SUI: Sistema Único de Información.",
+      "14. CONVERSIONES Y FACTORES TÉCNICOS",
+      "Conversiones:",
+      "1 tonelada = 1,000 kilogramos",
+      "1 kilogramo = 2.205 libras",
+      "1 metro cúbico = 35.31 pies cúbicos",
+      "1 yarda cúbica = 0.765 metros cúbicos",
+      "Densidades:",
+      "Residuos sin compactar: 150-250 kg/m³",
+      "En compactador: 400-600 kg/m³",
+      "En relleno: 700-900 kg/m³",
+      "Compost: 600-800 kg/m³",
+      "15. REFERENCIAS BIBLIOGRÁFICAS",
+      "Constitución Política de Colombia. (1991).",
+      "Ley 99 de 1993 - Sistema Nacional Ambiental.",
+      "Ley 142 de 1994 - Servicios Públicos Domiciliarios.",
+      "Resolución 0754 de 2014 - Metodología PGIRS.",
+      "Decreto 1077 de 2015 - Decreto Único Vivienda.",
+      "Decreto 596 de 2016 - Inclusión de recicladores.",
+      "Resolución 2184 de 2019 - Código de colores.",
+      "Decreto Municipal 158 de 2021.",
+      "Acuerdo Municipal 012 de 2024.",
+      "DANE. (2024). Proyecciones de población.",
+      "San Pedro Limpia S.A. E.S.P. (2024). Informes operativos.",
+      "16. ANEXOS",
+      "Los siguientes anexos técnicos complementan el PGIRS:",
+      "Anexo A: Caracterización detallada de residuos",
+      "Anexo B: Censo de recicladores - Informe completo",
+      "Anexo C: Registro toneladas 2024",
+      "Anexo D: Certificados VEOLIA 2024-2025",
+      "Anexo E: Proyección de subsidios",
+      "Anexo F: Censo arbóreo",
+      "Anexo G: Presupuesto detallado",
+      "Anexo H: Mapas y rutas",
+      "Anexo I: Actas de socialización",
+      "Anexo J: Documentos ECORECUPERADORES",
+      "Anexo K: Decretos y acuerdos",
+      "Anexo L: Contrato San Pedro Limpia",
+      "Anexo M: Licencia ambiental",
+      "Anexo N: Encuestas KAP",
+      "Anexo O: Diseños técnicos",
+      "Anexo P: Cronograma detallado",
+      "FIN DEL DOCUMENTO\n\nPGIRS San Pedro 2025-2036\n\nActualización del Plan de Gestión Integral de Residuos Sólidos\nMunicipio de San Pedro, Valle del Cauca\n\nDocumento aprobado para adopción oficial\nnoviembre 2025"
+    ],
+    "metas": [
+      {
+        "tipo": "tabla",
+        "datos": [
+          [
+            "Norma",
+            "Descripción"
+          ],
+          [
+            "Constitución Política (1991)",
+            "Artículos 79 y 80 - Derecho a un ambiente sano"
+          ],
+          [
+            "Ley 99 de 1993",
+            "Crea el Sistema Nacional Ambiental (SINA)"
+          ],
+          [
+            "Ley 142 de 1994",
+            "Régimen de Servicios Públicos Domiciliarios"
+          ],
+          [
+            "Resolución 0754 de 2014",
+            "Metodología para formulación de PGIRS"
+          ],
+          [
+            "Decreto 1077 de 2015",
+            "Decreto Único Reglamentario Sector Vivienda"
+          ],
+          [
+            "Decreto 596 de 2016",
+            "Esquema de aprovechamiento e inclusión de recicladores"
+          ],
+          [
+            "Resolución 2184 de 2019",
+            "Código de Colores para separación en la fuente"
+          ],
+          [
+            "Decreto 158 de 2021",
+            "Adopción PGIRS San Pedro 2021-2032"
+          ],
+          [
+            "Acuerdo 012 de 2024",
+            "Subsidios y contribuciones servicio de aseo"
+          ]
+        ]
+      },
+      {
+        "tipo": "tabla",
+        "datos": [
+          [
+            "Característica",
+            "Valor"
+          ],
+          [
+            "Departamento",
+            "Valle del Cauca"
+          ],
+          [
+            "Altitud",
+            "980 msnm"
+          ],
+          [
+            "Temperatura promedio",
+            "24°C"
+          ],
+          [
+            "Área total",
+            "243 km²"
+          ],
+          [
+            "Límites",
+            "Norte: Tuluá; Sur: Bugalagrande"
+          ]
+        ]
+      },
+      {
+        "tipo": "tabla",
+        "datos": [
+          [
+            "Indicador",
+            "Valor"
+          ],
+          [
+            "Población total",
+            "18,136 habitantes"
+          ],
+          [
+            "Población urbana",
+            "8,524 hab (47%)"
+          ],
+          [
+            "Población rural",
+            "9,612 hab (53%)"
+          ],
+          [
+            "Viviendas",
+            "5,676"
+          ],
+          [
+            "Densidad",
+            "74.6 hab/km²"
+          ]
+        ]
+      },
+      {
+        "tipo": "tabla",
+        "datos": [
+          [
+            "Año",
+            "Gobernanza",
+            "Observatorio",
+            "Mesas",
+            "Promotores"
+          ],
+          [
+            "2025",
+            "Consejo constituido",
+            "Diseño",
+            "4 operando",
+            "20"
+          ],
+          [
+            "2028",
+            "Consolidado",
+            "Operativo",
+            "5 activas",
+            "35"
+          ],
+          [
+            "2031",
+            "12 sesiones/año",
+            "Datos abiertos",
+            "5 activas",
+            "50"
+          ],
+          [
+            "2036",
+            "Modelo replicable",
+            "Trazabilidad 100%",
+            "Efectivas",
+            "50"
+          ]
+        ]
+      },
+      {
+        "tipo": "tabla",
+        "datos": [
+          [
+            "Indicador",
+            "LB 2024",
+            "2028",
+            "2031",
+            "2036"
+          ],
+          [
+            "Recicladores formalizados",
+            "0",
+            "20",
+            "32",
+            "50"
+          ],
+          [
+            "Registro SSPD",
+            "No",
+            "Sí",
+            "Sí",
+            "Sí"
+          ],
+          [
+            "ECA operativa",
+            "No",
+            "Sí",
+            "Sí",
+            "Sí"
+          ],
+          [
+            "Ton/mes aprovechadas",
+            "0",
+            "9",
+            "14",
+            "18"
+          ],
+          [
+            "Usuarios ruta selectiva",
+            "0%",
+            "50%",
+            "70%",
+            "80%"
+          ],
+          [
+            "Ingreso promedio (var %)",
+            "—",
+            "+15%",
+            "+45%",
+            "+60%"
+          ]
+        ]
+      },
+      {
+        "tipo": "tabla",
+        "datos": [
+          [
+            "Indicador",
+            "LB 2024",
+            "2026",
+            "2030",
+            "2036"
+          ],
+          [
+            "Hogares separando (%)",
+            "25%",
+            "45%",
+            "70%",
+            "85%"
+          ],
+          [
+            "IE con PRAE (%)",
+            "30%",
+            "70%",
+            "100%",
+            "100%"
+          ],
+          [
+            "Población capacitada (%)",
+            "24%",
+            "50%",
+            "85%",
+            "95%"
+          ],
+          [
+            "Tasa aprovechamiento (%)",
+            "5%",
+            "12%",
+            "22%",
+            "35%"
+          ]
+        ]
+      },
+      {
+        "tipo": "tabla",
+        "datos": [
+          [
+            "Indicador",
+            "LB 2024",
+            "2027",
+            "2030",
+            "2033",
+            "2036"
+          ],
+          [
+            "% Aprovechamiento orgánicos",
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "80%"
+          ],
+          [
+            "Ton compost/mes",
+            "0",
+            "19",
+            "32",
+            "44",
+            "50"
+          ],
+          [
+            "% Hogares separando",
+            "0%",
+            "20%",
+            "40%",
+            "60%",
+            "80%"
+          ],
+          [
+            "Convenios sector agrícola",
+            "0",
+            "2",
+            "5",
+            "8",
+            "10"
+          ],
+          [
+            "% Reducción disposición",
+            "0%",
+            "20%",
+            "35%",
+            "50%",
+            "60%"
+          ],
+          [
+            "Personas capacitadas",
+            "0",
+            "500",
+            "1,000",
+            "1,500",
+            "2,000"
+          ]
+        ]
+      },
+      {
+        "tipo": "tabla",
+        "datos": [
+          [
+            "Año",
+            "CAPEX",
+            "OPEX",
+            "Total Anual"
+          ],
+          [
+            "2025",
+            "262",
+            "389",
+            "651"
+          ],
+          [
+            "2026",
+            "279",
+            "415",
+            "694"
+          ],
+          [
+            "2027",
+            "295",
+            "437",
+            "732"
+          ],
+          [
+            "2028",
+            "308",
+            "457",
+            "765"
+          ],
+          [
+            "2029",
+            "320",
+            "476",
+            "796"
+          ],
+          [
+            "2030",
+            "331",
+            "492",
+            "823"
+          ],
+          [
+            "2031",
+            "343",
+            "509",
+            "852"
+          ],
+          [
+            "2032",
+            "355",
+            "527",
+            "882"
+          ],
+          [
+            "2033",
+            "367",
+            "546",
+            "913"
+          ],
+          [
+            "2034",
+            "380",
+            "565",
+            "945"
+          ],
+          [
+            "2035",
+            "394",
+            "584",
+            "978"
+          ],
+          [
+            "2036",
+            "407",
+            "605",
+            "1,012"
+          ],
+          [
+            "Subtotal 2025-2030",
+            "1795",
+            "2666",
+            "4461"
+          ],
+          [
+            "Subtotal 2031-2036",
+            "2246",
+            "3336",
+            "5582"
+          ],
+          [
+            "TOTAL 2025-2036",
+            "4041",
+            "6002",
+            "10043"
+          ]
+        ]
+      },
+      {
+        "tipo": "tabla",
+        "datos": [
+          [
+            "Programa",
+            "Presupuesto (M COP)",
+            "% del Total",
+            "Clasificación"
+          ],
+          [
+            "Participación Ciudadana y Gobernanza",
+            "1,650",
+            "14.8%",
+            "Fortalecido"
+          ],
+          [
+            "Inclusión Social de Recicladores",
+            "1,200",
+            "10.8%",
+            "Continuidad"
+          ],
+          [
+            "Cultura y Educación Ambiental",
+            "5,806",
+            "52.1%",
+            "Fortalecido"
+          ],
+          [
+            "Gestión de Residuos Orgánicos (PGARO)",
+            "3,000",
+            "26.9%",
+            "NUEVO"
+          ],
+          [
+            "Otros (contingencias)",
+            "187",
+            "1.7%",
+            "-"
+          ],
+          [
+            "TOTAL PGIRS MODERADO",
+            "11,143",
+            "100%",
+            "-"
+          ]
+        ]
+      },
+      {
+        "tipo": "tabla",
+        "datos": [
+          [
+            "Fuente",
+            "% Estimado",
+            "Monto (M COP)",
+            "Origen/Mecanismo"
+          ],
+          [
+            "Tarifas servicio aseo",
+            "45-50%",
+            "5,014-5,572",
+            "Componente aprovechamiento, educación y gestión en tarifa CRA"
+          ],
+          [
+            "Recursos municipales",
+            "25-30%",
+            "2,786-3,343",
+            "Presupuesto Secretaría Ambiente/Planeación/Servicios"
+          ],
+          [
+            "Cofinanciación",
+            "8-12%",
+            "891-1,337",
+            "CVC, MinVivienda, MinAmbiente"
+          ],
+          [
+            "Alianzas Público-Privadas",
+            "5-8%",
+            "557-891",
+            "Responsabilidad Extendida, patrocinios"
+          ],
+          [
+            "Ingresos aprovechamiento",
+            "3-5%",
+            "334-557",
+            "Venta compost y reciclables desde 2030"
+          ],
+          [
+            "Cooperación/Bonos",
+            "2-5%",
+            "223-557",
+            "Cooperación internacional, bonos de carbono"
+          ]
+        ]
+      },
+      {
+        "tipo": "tabla",
+        "datos": [
+          [
+            "Año",
+            "CAPEX (M)",
+            "OPEX (M)",
+            "Total (M)"
+          ],
+          [
+            "2028",
+            "308",
+            "457",
+            "765"
+          ],
+          [
+            "2029",
+            "320",
+            "476",
+            "796"
+          ],
+          [
+            "2030",
+            "331",
+            "492",
+            "823"
+          ],
+          [
+            "2031",
+            "343",
+            "509",
+            "852"
+          ],
+          [
+            "Subtotal 2028-2031",
+            "1,302",
+            "1,934",
+            "3,236"
+          ]
+        ]
+      },
+      {
+        "tipo": "tabla",
+        "datos": [
+          [
+            "Indicador",
+            "LB 2024",
+            "2027",
+            "2030",
+            "2034",
+            "2036",
+            "Frecuencia",
+            "Verificación"
+          ],
+          [
+            "1. Tasa aprovechamiento total (%)",
+            "15%",
+            "35%",
+            "55%",
+            "70%",
+            "80%",
+            "Trimestral",
+            "SUI/Reportes operador"
+          ],
+          [
+            "2. Hogares separando fuente (%)",
+            "25%",
+            "55%",
+            "70%",
+            "82%",
+            "85%",
+            "Anual",
+            "Encuestas KAP"
+          ],
+          [
+            "3. Aprovechamiento orgánicos (%)",
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "80%",
+            "Mensual",
+            "Registros planta"
+          ],
+          [
+            "4. Recicladores formalizados (N°)",
+            "0",
+            "20",
+            "32",
+            "45",
+            "50",
+            "Semestral",
+            "Registro SSPD"
+          ],
+          [
+            "5. Cobertura rural (%)",
+            "65%",
+            "80%",
+            "90%",
+            "93%",
+            "95%",
+            "Anual",
+            "Censo usuarios"
+          ],
+          [
+            "6. Reducción disposición final (%)",
+            "0%",
+            "25%",
+            "40%",
+            "55%",
+            "60%",
+            "Trimestral",
+            "Certificados VEOLIA"
+          ],
+          [
+            "7. IE con PRAE fortalecido (%)",
+            "30%",
+            "80%",
+            "100%",
+            "100%",
+            "100%",
+            "Anual",
+            "Secretaría Educación"
+          ],
+          [
+            "8. Satisfacción ciudadana (1-5)",
+            "3.5",
+            "3.8",
+            "4.0",
+            "4.2",
+            "4.3",
+            "Anual",
+            "Encuestas"
+          ],
+          [
+            "9. Eficiencia financiera (%)",
+            "40%",
+            "50%",
+            "65%",
+            "75%",
+            "80%",
+            "Trimestral",
+            "Estados financieros"
+          ],
+          [
+            "10. Cumplimiento cronograma (%)",
+            "—",
+            "90%",
+            "95%",
+            "95%",
+            "98%",
+            "Trimestral",
+            "Informes gestión"
+          ]
+        ]
+      },
+      {
+        "tipo": "tabla",
+        "datos": [
+          [
+            "Riesgo",
+            "Probabilidad",
+            "Impacto",
+            "Medidas de Mitigación"
+          ],
+          [
+            "Fluctuación precios reciclables",
+            "Media",
+            "Alto",
+            "Contratos mediano plazo, diversificación"
+          ],
+          [
+            "Baja separación en fuente",
+            "Alta",
+            "Alto",
+            "Campañas permanentes, incentivos"
+          ],
+          [
+            "Cambios normativos",
+            "Baja",
+            "Medio",
+            "Monitoreo normativo, flexibilidad"
+          ],
+          [
+            "Limitaciones presupuestales",
+            "Media",
+            "Alto",
+            "Diversificación fuentes, priorización"
+          ],
+          [
+            "Rotación personal clave",
+            "Media",
+            "Medio",
+            "Capacitación continua, protocolos"
+          ],
+          [
+            "Resistencia al cambio",
+            "Media",
+            "Medio",
+            "Pedagogía intensiva, líderes comunitarios"
+          ],
+          [
+            "Eventos climáticos extremos",
+            "Baja",
+            "Alto",
+            "Infraestructura resiliente, seguros"
+          ],
+          [
+            "Conflictos institucionales",
+            "Baja",
+            "Medio",
+            "Gobernanza clara, acuerdos escritos"
+          ]
+        ]
+      }
+    ],
+    "acciones": []
+  },
+  "programas": {
+    "inclusion_recicladores": {
+      "titulo": "Programa de Inclusión de Recicladores",
+      "contenido": [
+        {
+          "tipo": "parrafo",
+          "texto": "Programa de Inclusión Social de Recicladores (Ajustado)",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "PGIRS San Pedro, Valle del Cauca – Horizonte 2025–2036",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Versión: Noviembre 2025 – Ajuste técnico-financiero coherente con PGIRS (Escenario Moderado $10.043.000.000 COP)",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Resumen ejecutivo",
+          "es_titulo": true
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "El Programa de Inclusión Social de Recicladores se ajusta para garantizar formalización, seguridad social y productividad, con operación de una ECA modular mínima viable, rutas selectivas integradas y acuerdos comerciales de materiales. Presupuesto total 2025–2036: $1.004.000.000 COP. Se proyecta la formalización de 50 recicladores a 2036, la reducción de riesgos en vía, y el incremento sostenido del aprovechamiento.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "1. Entidad responsable",
+          "es_titulo": true
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Alcaldía Municipal de San Pedro – Secretaría de Ambiente y Desarrollo Sostenible – UPGIRS – en articulación con San Pedro Limpia S.A. E.S.P., organizaciones de recicladores y actores privados.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "2. Objetivo general y específicos",
+          "es_titulo": true
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Objetivo general:",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Formalizar e integrar a los recicladores de oficio en el sistema de gestión de residuos, dignificando su labor, mejorando sus ingresos y seguridad, y elevando las tasas de aprovechamiento del municipio.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Formalizar 50 recicladores al 2036 con esquemas de seguridad social y capacitación continua.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Diseñar, dotar y operar una ECA modular mínimo viable con protocolos de seguridad y calidad.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Integrar rutas selectivas de aprovechables y puntos de acopio con logística y trazabilidad.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Establecer acuerdos comerciales estables con compradores regionales.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Fortalecer capacidades empresariales y asociativas (contabilidad, costos, ventas).",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "3. Componentes y acciones",
+          "es_titulo": true
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Formalización y bienestar",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Caracterización y registro; contratos/actas; afiliación a seguridad social; EPP completo.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Capacitaciones en seguridad vial, salud ocupacional y manejo de materiales.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "ECA modular y operación",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "ECA mínima viable con área de recepción, clasificación y almacenamiento.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Equipos básicos: mesas, estanterías, báscula, montacargas manual; señalización.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Logística y rutas selectivas",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Rutas integradas con operador; puntos de acopio; calibración de frecuencias y horarios; identificación.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Comercialización y mercados",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Acuerdos con recicladores regionales/comercializadores; control de calidad; negociación de precios.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Fortalecimiento organizacional",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Gobernanza interna, roles y manuales; contabilidad básica; indicadores de desempeño.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "4. Metas e Indicadores (MIR)",
+          "es_titulo": true
+        },
+        {
+          "tipo": "tabla",
+          "datos": [
+            [
+              "Indicador",
+              "LB 2024",
+              "Meta 2027",
+              "Meta 2030",
+              "Meta 2033",
+              "Meta 2036"
+            ],
+            [
+              "Recicladores formalizados (nº)",
+              "0",
+              "20",
+              "32",
+              "45",
+              "50"
+            ],
+            [
+              "Ingresos promedio/reciclador (COP/mes)",
+              "$0",
+              "$850.000",
+              "$1.050.000",
+              "$1.250.000",
+              "$1.400.000"
+            ],
+            [
+              "Toneladas aprovechadas por ECA (t/mes)",
+              "0",
+              "18",
+              "26",
+              "32",
+              "40"
+            ],
+            [
+              "Dotación EPP completa (% del total)",
+              "0%",
+              "80%",
+              "100%",
+              "100%",
+              "100%"
+            ],
+            [
+              "Accidentalidad en vía (eventos/año)",
+              "—",
+              "−30%",
+              "−50%",
+              "−60%",
+              "−70%"
+            ]
+          ]
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "5. Presupuesto ajustado y financiación",
+          "es_titulo": true
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Presupuesto total 2025–2036: $1.004.000.000 COP",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "5.1 Distribución por rubro (COP)",
+          "es_titulo": false
+        },
+        {
+          "tipo": "tabla",
+          "datos": [
+            [
+              "Rubro",
+              "Valor (COP)"
+            ],
+            [
+              "ECA modular (adecuación, dotación básica, señalización)",
+              "$320.000.000"
+            ],
+            [
+              "Equipos y herramientas (báscula, mesas, estanterías, montacargas manual)",
+              "$160.000.000"
+            ],
+            [
+              "Rutas selectivas (operación, combustible, identificación)",
+              "$260.000.000"
+            ],
+            [
+              "Dotación EPP y seguridad (inicial + reposición)",
+              "$90.000.000"
+            ],
+            [
+              "Formación y fortalecimiento organizacional",
+              "$90.000.000"
+            ],
+            [
+              "Gestión comercial y calidad (contratos, inspección, certificaciones básicas)",
+              "$84.000.000"
+            ],
+            [
+              "TOTAL",
+              "$1.004.000.000"
+            ]
+          ]
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "5.2 Programación anual (COP)",
+          "es_titulo": false
+        },
+        {
+          "tipo": "tabla",
+          "datos": [
+            [
+              "Año",
+              "Total anual (COP)"
+            ],
+            [
+              "2025",
+              "$90.000.000"
+            ],
+            [
+              "2026",
+              "$110.000.000"
+            ],
+            [
+              "2027",
+              "$120.000.000"
+            ],
+            [
+              "2028",
+              "$120.000.000"
+            ],
+            [
+              "2029",
+              "$110.000.000"
+            ],
+            [
+              "2030",
+              "$100.000.000"
+            ],
+            [
+              "2031",
+              "$90.000.000"
+            ],
+            [
+              "2032",
+              "$80.000.000"
+            ],
+            [
+              "2033",
+              "$70.000.000"
+            ],
+            [
+              "2034",
+              "$65.000.000"
+            ],
+            [
+              "2035",
+              "$60.000.000"
+            ],
+            [
+              "2036",
+              "$59.000.000"
+            ]
+          ]
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "6. Implementación 2025–2036",
+          "es_titulo": true
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Fase I – Fortalecimiento (2025–2027)",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Caracterización y registro; formalización inicial (20); dotación EPP; ECA mínima viable.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Fase II – Implementación (2027–2030)",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Expansión de rutas selectivas; acuerdos comerciales; 32 recicladores formalizados.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Fase III – Consolidación (2030–2034)",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Optimización de operación ECA; indicadores de productividad; seguridad vial.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Fase IV – Sostenibilidad (2034–2036)",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "50 recicladores formalizados; operación eficiente; reducción sostenida de riesgos.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "7. Fuentes de financiación",
+          "es_titulo": true
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Tarifa de aseo (componente de aprovechamiento y actividades complementarias).",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Recursos municipales y cofinanciación (CVC, Nación, cooperación).",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Ingresos por comercialización de materiales (contratos con compradores regionales).",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "8. Gestión de riesgos",
+          "es_titulo": true
+        },
+        {
+          "tipo": "tabla",
+          "datos": [
+            [
+              "Riesgo",
+              "Mitigación"
+            ],
+            [
+              "Informalidad persistente",
+              "Acompañamiento social continuo; incentivos; visibilización de beneficios."
+            ],
+            [
+              "Fluctuación de precios de materiales",
+              "Diversificación de compradores; contratos marco; control de calidad."
+            ],
+            [
+              "Riesgos en vía y salud ocupacional",
+              "EPP completo; capacitaciones; protocolos y señalización."
+            ],
+            [
+              "Capacidad de gestión organizacional",
+              "Asistencia técnica; manuales y roles; formación en gestión."
+            ]
+          ]
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "9. Trazabilidad normativa",
+          "es_titulo": true
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Resolución 0754 de 2014",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Decreto 1077 de 2015",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Decreto 596 de 2016",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Resolución 2184 de 2019",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Ley 2232 de 2022 y Decreto 2192 de 2023",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Decreto Municipal 158 de 2021",
+          "es_titulo": false
+        }
+      ],
+      "objetivo_general": "Formalizar e integrar a los recicladores de oficio en el sistema de gestión de residuos, dignificando su labor, mejorando sus ingresos y seguridad, y elevando las tasas de aprovechamiento del municipio.",
+      "objetivos_especificos": [],
+      "componentes": [
+        "Formalización y bienestar",
+        "Caracterización y registro; contratos/actas; afiliación a seguridad social; EPP completo.",
+        "Capacitaciones en seguridad vial, salud ocupacional y manejo de materiales.",
+        "ECA modular y operación",
+        "ECA mínima viable con área de recepción, clasificación y almacenamiento.",
+        "Equipos básicos: mesas, estanterías, báscula, montacargas manual; señalización.",
+        "Logística y rutas selectivas",
+        "Rutas integradas con operador; puntos de acopio; calibración de frecuencias y horarios; identificación."
+      ],
+      "metas": [],
+      "presupuesto": "Presupuesto total 2025–2036: $1.004.000.000 COP",
+      "indicadores": [
+        "Gobernanza interna, roles y manuales; contabilidad básica; indicadores de desempeño.",
+        "4. Metas e Indicadores (MIR)",
+        "Optimización de operación ECA; indicadores de productividad; seguridad vial.",
+        "Fase IV – Sostenibilidad (2034–2036)",
+        "50 recicladores formalizados; operación eficiente; reducción sostenida de riesgos.",
+        "7. Fuentes de financiación"
+      ]
+    },
+    "participacion_gobernanza": {
+      "titulo": "Programa de Participación y Gobernanza",
+      "contenido": [
+        {
+          "tipo": "parrafo",
+          "texto": "Programa de Participación Ciudadana y Gobernanza Ambiental (Ajustado)",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "PGIRS San Pedro, Valle del Cauca – Horizonte 2025–2036",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Entidad responsable: Secretaría de Planeación e Infraestructura — en articulación con San Pedro Limpia S.A. E.S.P. y UPGIRS.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Versión: Noviembre 2025 (Ajuste técnico-financiero coherente con PGIRS 2025–2036, Escenario Moderado $10.043 millones).",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Resumen ejecutivo",
+          "es_titulo": true
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Se optimiza el programa con un presupuesto total 2025–2036 de $1.808 millones COP (18.0% del total PGIRS), priorizando: Consejo Municipal de Reciclaje, Mesas territoriales, Observatorio Local de Gestión de Residuos en versión ligera (software libre), Veedurías digitales integradas a la App y la Red de Promotores Ambientales (50). Se garantizan mecanismos de control social y trazabilidad con costos operativos contenidos.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "1. Objetivo general y específicos",
+          "es_titulo": true
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Objetivo general:",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Institucionalizar mecanismos de participación, control social y gobernanza ambiental que incrementen el aprovechamiento, reduzcan la disposición final y mejoren la calidad del servicio de aseo, con inclusión social y enfoque territorial.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Operar el Consejo Municipal de Reciclaje y Economía Circular con sesiones trimestrales.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Implementar Mesas territoriales (juventud, mujeres, rural, recicladores, comercio).",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Poner en marcha un Observatorio Local de datos abiertos (tablero ligero y SIG básico).",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Veedurías ciudadanas digitales integradas a la App y protocolos PQR.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Red de 50 Promotores Ambientales con metas por barrio/vereda.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "2. Metas e Indicadores (MIR alineada)",
+          "es_titulo": true
+        },
+        {
+          "tipo": "tabla",
+          "datos": [
+            [
+              "Indicador",
+              "LB 2025",
+              "Meta 2028",
+              "Meta 2031",
+              "Meta 2036"
+            ],
+            [
+              "Sesiones Consejo realizadas/año",
+              "0",
+              "4",
+              "6",
+              "12"
+            ],
+            [
+              "Mesas temáticas activas (nº)",
+              "0",
+              "4",
+              "5",
+              "5"
+            ],
+            [
+              "Promotores ambientales formados (nº)",
+              "0",
+              "35",
+              "50",
+              "50"
+            ],
+            [
+              "Tablero de datos abiertos operativo (Sí/No)",
+              "No",
+              "Sí",
+              "Sí",
+              "Sí"
+            ],
+            [
+              "Reportes ciudadanos atendidos (%)",
+              "—",
+              "70%",
+              "85%",
+              "95%"
+            ]
+          ]
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "3. Presupuesto ajustado y financiamiento",
+          "es_titulo": true
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Presupuesto total 2025–2036: $1.808 millones COP",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "3.1 Distribución por componente (Millones COP)",
+          "es_titulo": false
+        },
+        {
+          "tipo": "tabla",
+          "datos": [
+            [
+              "Componente",
+              "Valor (M COP)"
+            ],
+            [
+              "Consejo + Mesas (logística, actas, facilitación)",
+              "520"
+            ],
+            [
+              "Observatorio ligero (tablero, hosting, SIG básico)",
+              "480"
+            ],
+            [
+              "Veedurías digitales y PQR (plataforma/App)",
+              "300"
+            ],
+            [
+              "Red de Promotores (formación y kits)",
+              "400"
+            ],
+            [
+              "Gestión, comunicaciones y auditorías",
+              "108"
+            ],
+            [
+              "TOTAL",
+              "1808"
+            ]
+          ]
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "3.2 Programación anual (M COP)",
+          "es_titulo": false
+        },
+        {
+          "tipo": "tabla",
+          "datos": [
+            [
+              "Año",
+              "Total (M COP)"
+            ],
+            [
+              "2025",
+              "120"
+            ],
+            [
+              "2026",
+              "140"
+            ],
+            [
+              "2027",
+              "160"
+            ],
+            [
+              "2028",
+              "175"
+            ],
+            [
+              "2029",
+              "175"
+            ],
+            [
+              "2030",
+              "165"
+            ],
+            [
+              "2031",
+              "160"
+            ],
+            [
+              "2032",
+              "160"
+            ],
+            [
+              "2033",
+              "150"
+            ],
+            [
+              "2034",
+              "135"
+            ],
+            [
+              "2035",
+              "130"
+            ],
+            [
+              "2036",
+              "138"
+            ]
+          ]
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "4. Plan de implementación 2025–2036",
+          "es_titulo": true
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Fase I – Fortalecimiento (2025–2027)",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Decreto del Consejo; conformación de Mesas; tablero mínimo viable; protocolos PQR.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Fase II – Implementación (2027–2030)",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Operación plena de instancias; datos abiertos; auditorías externas bienales.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Fase III – Consolidación (2030–2034)",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Optimización tecnológica; participación sostenida; métricas de desempeño.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Fase IV – Sostenibilidad (2034–2036)",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Modelo replicable; 95% de reportes atendidos; fortalecimiento de promotores.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "5. Gestión de riesgos",
+          "es_titulo": true
+        },
+        {
+          "tipo": "tabla",
+          "datos": [
+            [
+              "Riesgo",
+              "Mitigación"
+            ],
+            [
+              "Baja participación sostenida",
+              "Incentivos no monetarios, alianzas con IE/JAC/ONG, comunicación efectiva."
+            ],
+            [
+              "Rotación institucional",
+              "Protocolos y manuales; roles definidos; actas y seguimiento."
+            ],
+            [
+              "Limitaciones presupuestales",
+              "Escalamiento funcional; software libre; cofinanciación."
+            ]
+          ]
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "6. Trazabilidad normativa",
+          "es_titulo": true
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Resolución 0754 de 2014",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Decreto 1077 de 2015",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Decreto 596 de 2016",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Resolución 2184 de 2019",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Decreto Municipal 158 de 2021",
+          "es_titulo": false
+        }
+      ],
+      "objetivo_general": "Institucionalizar mecanismos de participación, control social y gobernanza ambiental que incrementen el aprovechamiento, reduzcan la disposición final y mejoren la calidad del servicio de aseo, con inclusión social y enfoque territorial.",
+      "objetivos_especificos": [],
+      "componentes": [
+        "3.2 Programación anual (M COP)",
+        "4. Plan de implementación 2025–2036",
+        "Fase I – Fortalecimiento (2025–2027)",
+        "Decreto del Consejo; conformación de Mesas; tablero mínimo viable; protocolos PQR.",
+        "Fase II – Implementación (2027–2030)",
+        "Operación plena de instancias; datos abiertos; auditorías externas bienales.",
+        "Fase III – Consolidación (2030–2034)",
+        "Optimización tecnológica; participación sostenida; métricas de desempeño."
+      ],
+      "metas": [],
+      "presupuesto": "Presupuesto total 2025–2036: $1.808 millones COP",
+      "indicadores": [
+        "2. Metas e Indicadores (MIR alineada)"
+      ]
+    },
+    "cultura_educacion": {
+      "titulo": "Programa de Cultura y Educación",
+      "contenido": [
+        {
+          "tipo": "parrafo",
+          "texto": "Programa de Cultura y Educación Ambiental Innovadora (Ajustado)",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "PGIRS San Pedro, Valle del Cauca – Horizonte 2025–2036",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Entidad responsable: Alcaldía Municipal de San Pedro – Secretaría de Ambiente y Desarrollo Sostenible – UPGIRS – en articulación con Secretaría de Educación y San Pedro Limpia S.A. E.S.P.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Versión: Noviembre 2025 (Ajuste técnico-financiero coherente con PGIRS 2025–2036, Escenario Moderado $10.043 millones).",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Resumen ejecutivo",
+          "es_titulo": true
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Se ajusta el programa para maximizar impacto con viabilidad financiera. Presupuesto total 2025–2036: $4.017 millones COP (40.0% del total PGIRS), priorizando: App “San Pedro Verde” versión MVP, Ecorrutas vivenciales optimizadas, Laboratorios Verdes Escolares con dotación básica, Escuelas Comunitarias de Reciclaje integradas con PGARO y el Programa de Inclusión de Recicladores. Se mantienen metas estratégicas del PGIRS: hogares separando 85% a 2036, 100% de IE con PRAE fortalecido y aumento sostenido de la tasa de aprovechamiento.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "1. Objetivo general y específicos",
+          "es_titulo": true
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Objetivo general:",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Promover cambios de comportamiento sostenibles mediante metodologías vivenciales y digitales, con enfoque de inclusión social, viabilidad financiera y soporte a PGARO y a la Inclusión de Recicladores.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Implementar metodologías lúdicas y experienciales (Ecorrutas) con contenidos reutilizables.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Desarrollar y operar la App “San Pedro Verde” (MVP) para educación, reportes y gamificación.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Dotar y acompañar Laboratorios Verdes Escolares en el 100% de IE a 2028.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Formación comunitaria continua (Escuelas de Reciclaje) articulada a separación en la fuente.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Sostener un sistema de monitoreo de indicadores y mejora continua (MIR).",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "2. Componentes y estrategias",
+          "es_titulo": true
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Ecorrutas Vivenciales optimizadas",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Rutas con estaciones didácticas portables y materiales reutilizables.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Cobertura progresiva de barrios y veredas; enfoque intergeneracional.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "App “San Pedro Verde” (MVP)",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Microcursos, trivias y retos; reportes georreferenciados; tablero básico de metas.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Incentivos no monetarios y convenios simples (RSE) para recompensas.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Laboratorios Verdes Escolares",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Dotación básica, guías docentes y acompañamiento técnico anual.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Integración curricular y medición de resultados.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Escuelas Comunitarias de Reciclaje",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Talleres prácticos, líderes comunitarios y recicladores formadores.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Articulación con rutas selectivas y PGARO.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "3. Metas e Indicadores (MIR alineada)",
+          "es_titulo": true
+        },
+        {
+          "tipo": "tabla",
+          "datos": [
+            [
+              "Indicador",
+              "LB 2025",
+              "Meta 2030",
+              "Meta 2036",
+              "Fuente"
+            ],
+            [
+              "Hogares separando en la fuente (%)",
+              "30%",
+              "70%",
+              "85%",
+              "Encuestas; App"
+            ],
+            [
+              "IE con PRAE/Laboratorio Verde (%)",
+              "30%",
+              "100%",
+              "100%",
+              "Sec. Educación"
+            ],
+            [
+              "Población capacitada acumulada (%)",
+              "24%",
+              "70%",
+              "95%",
+              "Registros PGIRS"
+            ],
+            [
+              "Usuarios activos App (nº/mes)",
+              "0",
+              "5.000",
+              "10.000",
+              "Analítica App"
+            ],
+            [
+              "Tasa de aprovechamiento total (%)",
+              "15%",
+              "35%",
+              "80%",
+              "SUI/Operador"
+            ]
+          ]
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "4. Presupuesto ajustado y financiamiento",
+          "es_titulo": true
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Presupuesto total 2025–2036: $4.017 millones COP",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "4.1 Distribución por componente (Millones COP)",
+          "es_titulo": false
+        },
+        {
+          "tipo": "tabla",
+          "datos": [
+            [
+              "Componente",
+              "Valor (M COP)"
+            ],
+            [
+              "App “San Pedro Verde” (MVP + operación)",
+              "1200"
+            ],
+            [
+              "Ecorrutas Vivenciales (diseño+operación)",
+              "1050"
+            ],
+            [
+              "Laboratorios Verdes Escolares",
+              "980"
+            ],
+            [
+              "Escuelas Comunitarias de Reciclaje",
+              "500"
+            ],
+            [
+              "Gestión, monitoreo y comunicaciones",
+              "287"
+            ],
+            [
+              "TOTAL",
+              "4017"
+            ]
+          ]
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "4.2 Programación anual (M COP)",
+          "es_titulo": false
+        },
+        {
+          "tipo": "tabla",
+          "datos": [
+            [
+              "Año",
+              "Total (M COP)"
+            ],
+            [
+              "2025",
+              "260"
+            ],
+            [
+              "2026",
+              "310"
+            ],
+            [
+              "2027",
+              "360"
+            ],
+            [
+              "2028",
+              "380"
+            ],
+            [
+              "2029",
+              "380"
+            ],
+            [
+              "2030",
+              "370"
+            ],
+            [
+              "2031",
+              "350"
+            ],
+            [
+              "2032",
+              "330"
+            ],
+            [
+              "2033",
+              "300"
+            ],
+            [
+              "2034",
+              "290"
+            ],
+            [
+              "2035",
+              "260"
+            ],
+            [
+              "2036",
+              "227"
+            ]
+          ]
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "4.3 Fuentes de financiación",
+          "es_titulo": true
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Tarifa aseo (componente de educación y gestión).",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Recursos municipales (Ambiente, Educación, Planeación).",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Cofinanciación CVC y Nación; cooperación; RSE y alianzas.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "5. Plan de implementación 2025–2036",
+          "es_titulo": true
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Fase I – Fortalecimiento (2025–2027)",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Ecorrutas piloto; App MVP; 6 IE con laboratorio; campañas digitales.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Fase II – Implementación (2027–2030)",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "100% IE con laboratorios; expansión App; campañas trimestrales; integración con PGARO.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Fase III – Consolidación (2030–2034)",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Optimización contenidos y analítica; métricas comunitarias; ajustes operativos.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Fase IV – Sostenibilidad (2034–2036)",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Alta participación; 85% hogares separando; repositorio de contenidos y buenas prácticas.",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "6. Gestión de riesgos",
+          "es_titulo": true
+        },
+        {
+          "tipo": "tabla",
+          "datos": [
+            [
+              "Riesgo",
+              "Mitigación"
+            ],
+            [
+              "Baja adopción App/participación",
+              "Diseño centrado en usuarios; gamificación; incentivos RSE."
+            ],
+            [
+              "Capacidad institucional",
+              "Alianzas con IE, ONG y promotores comunitarios."
+            ],
+            [
+              "Limitaciones presupuestales",
+              "Priorización MVP; reutilización de materiales; cofinanciación."
+            ]
+          ]
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "7. Trazabilidad normativa",
+          "es_titulo": true
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Resolución 0754 de 2014",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Decreto 1077 de 2015",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Resolución 2184 de 2019",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "CONPES 3874 de 2016",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Ley 2232 de 2022 y Decreto 2192 de 2023",
+          "es_titulo": false
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Decreto Municipal 158 de 2021",
+          "es_titulo": false
+        }
+      ],
+      "objetivo_general": "Promover cambios de comportamiento sostenibles mediante metodologías vivenciales y digitales, con enfoque de inclusión social, viabilidad financiera y soporte a PGARO y a la Inclusión de Recicladores.",
+      "objetivos_especificos": [],
+      "componentes": [
+        "Ecorrutas Vivenciales optimizadas",
+        "Rutas con estaciones didácticas portables y materiales reutilizables.",
+        "Cobertura progresiva de barrios y veredas; enfoque intergeneracional.",
+        "App “San Pedro Verde” (MVP)",
+        "Microcursos, trivias y retos; reportes georreferenciados; tablero básico de metas.",
+        "Incentivos no monetarios y convenios simples (RSE) para recompensas.",
+        "Laboratorios Verdes Escolares",
+        "Dotación básica, guías docentes y acompañamiento técnico anual."
+      ],
+      "metas": [
+        "Se ajusta el programa para maximizar impacto con viabilidad financiera. Presupuesto total 2025–2036: $4.017 millones COP (40.0% del total PGIRS), priorizando: App “San Pedro Verde” versión MVP, Ecorrutas vivenciales optimizadas, Laboratorios Verdes Escolares con dotación básica, Escuelas Comunitarias de Reciclaje integradas con PGARO y el Programa de Inclusión de Recicladores. Se mantienen metas estratégicas del PGIRS: hogares separando 85% a 2036, 100% de IE con PRAE fortalecido y aumento sostenido de la tasa de aprovechamiento."
+      ],
+      "presupuesto": "Presupuesto total 2025–2036: $4.017 millones COP",
+      "indicadores": [
+        "Sostener un sistema de monitoreo de indicadores y mejora continua (MIR).",
+        "3. Metas e Indicadores (MIR alineada)"
+      ]
+    }
+  },
+  "trazabilidad": {
+    "titulo": "Trazabilidad del Proceso de Construcción",
+    "contenido": [
+      {
+        "tipo": "parrafo",
+        "texto": "Programa de Gestión y Aprovechamiento de Residuos Orgánicos – PGARO (Ajustado)",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "PGIRS San Pedro, Valle del Cauca – Horizonte 2025–2036",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Entidad responsable: Alcaldía Municipal de San Pedro – UPGIRS – en articulación con San Pedro Limpia S.A. E.S.P. y ECORECUPERADORES.",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Versión: Noviembre 2025 (Ajuste técnico-financiero coherente con PGIRS 2025–2036, Escenario Moderado $10.043 millones).",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Resumen ejecutivo",
+        "es_titulo": true
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Se optimiza el PGARO con un presupuesto total 2025–2036 de $3.013.000.000 COP, priorizando: separación en la fuente, rutas selectivas para orgánicos, planta de compostaje modular escalable (hasta 50 t/mes) y biodigestores piloto focalizados. Se integran metas de reducción de disposición final y generación de ingresos por venta de compost, manteniendo la meta del 80% de aprovechamiento de orgánicos al 2036.",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "1. Objetivo general y específicos",
+        "es_titulo": true
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Objetivo general:",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Implementar un sistema integral y sostenible de aprovechamiento de orgánicos que trate el 80% de la fracción orgánica para 2036, transformándola en productos de valor (compost) y reduciendo impactos ambientales.",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Desplegar separación en la fuente con enfoque territorial (urbano y rural plana).",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Operar rutas selectivas 2–3 veces/semana integradas al plan de recolección.",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Construir y operar una planta de compostaje modular (8–15 t/mes → 50 t/mes).",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Evaluar e implementar biodigestores piloto en fincas/comunidades.",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Asegurar calidad del compost y mercados locales (agro, viveros, paisajismo).",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Integrar PGARO con Inclusión de Recicladores y Cultura/Educación.",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "2. Componentes y acciones",
+        "es_titulo": true
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Componente técnico-operativo",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Separación en la fuente; contenedores diferenciados.",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Rutas selectivas para orgánicos; calibración de frecuencias.",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Planta municipal de compostaje modular; control de calidad.",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Biodigestores piloto focalizados.",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Componente ambiental",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Reducción de lixiviados y GEI; manejo de podas.",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Certificación/calidad del compost; suelos y agricultura local.",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Componente social y político",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Inclusión de ECORECUPERADORES en recolección y operación.",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Talleres de compostaje barrial y veredal; Ecorrutas temáticas.",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Componente financiero y de mercados",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Modelo autosostenible parcial a 2031–2034.",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Alianzas con sector agrícola; acuerdos de venta de compost.",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "3. Metas e Indicadores (MIR alineada)",
+        "es_titulo": true
+      },
+      {
+        "tipo": "tabla",
+        "datos": [
+          [
+            "Indicador",
+            "LB 2024",
+            "Meta 2027",
+            "Meta 2030",
+            "Meta 2033",
+            "Meta 2036"
+          ],
+          [
+            "Aprovechamiento orgánicos (%)",
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "80%"
+          ],
+          [
+            "Compost producido (t/mes)",
+            "0",
+            "19",
+            "32",
+            "44",
+            "50"
+          ],
+          [
+            "Hogares separando orgánicos (%)",
+            "0%",
+            "20%",
+            "40%",
+            "60%",
+            "80%"
+          ],
+          [
+            "Convenios sector agrícola (n°)",
+            "0",
+            "2",
+            "5",
+            "8",
+            "10"
+          ],
+          [
+            "Reducción disposición relativa (%)",
+            "0%",
+            "20%",
+            "35%",
+            "50%",
+            "60%"
+          ]
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "4. Presupuesto ajustado y financiación",
+        "es_titulo": true
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Presupuesto total 2025–2036: $3.013.000.000 COP",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "4.1 Distribución por rubro (COP)",
+        "es_titulo": false
+      },
+      {
+        "tipo": "tabla",
+        "datos": [
+          [
+            "Rubro",
+            "Valor (COP)"
+          ],
+          [
+            "Planta de compostaje (obra civil modular y adecuaciones)",
+            "$1.200.000.000"
+          ],
+          [
+            "Equipos esenciales (criba, volteo básico, herramientas)",
+            "$420.000.000"
+          ],
+          [
+            "Rutas selectivas y logística (operación/combustible/recipientes)",
+            "$750.000.000"
+          ],
+          [
+            "Capacitación y educación para separación/compostaje",
+            "$300.000.000"
+          ],
+          [
+            "Sistemas de monitoreo/calidad y comercialización",
+            "$200.000.000"
+          ],
+          [
+            "Biodigestores piloto focalizados",
+            "$143.000.000"
+          ],
+          [
+            "TOTAL",
+            "$3.013.000.000"
+          ]
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "4.2 Programación anual (COP)",
+        "es_titulo": false
+      },
+      {
+        "tipo": "tabla",
+        "datos": [
+          [
+            "Año",
+            "Total anual (COP)"
+          ],
+          [
+            "2025",
+            "$140.000.000"
+          ],
+          [
+            "2026",
+            "$220.000.000"
+          ],
+          [
+            "2027",
+            "$300.000.000"
+          ],
+          [
+            "2028",
+            "$340.000.000"
+          ],
+          [
+            "2029",
+            "$330.000.000"
+          ],
+          [
+            "2030",
+            "$300.000.000"
+          ],
+          [
+            "2031",
+            "$280.000.000"
+          ],
+          [
+            "2032",
+            "$260.000.000"
+          ],
+          [
+            "2033",
+            "$260.000.000"
+          ],
+          [
+            "2034",
+            "$230.000.000"
+          ],
+          [
+            "2035",
+            "$200.000.000"
+          ],
+          [
+            "2036",
+            "$153.000.000"
+          ]
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "4.3 Fuentes de financiación",
+        "es_titulo": true
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Tarifas del servicio de aseo (componente de aprovechamiento).",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Recursos municipales (UPGIRS/Planeación/Ambiente).",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cofinanciación CVC y Nación; APP; cooperación.",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ingresos por venta de compost (desde 2028–2030).",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "5. Plan de implementación 2025–2036",
+        "es_titulo": true
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Fase I – Fortalecimiento (2025–2027)",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Separación en la fuente; pilotos comunitarios; diseño planta.",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Fase II – Implementación (2027–2030)",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Construcción y operación planta; 32 t/mes a 2028–2030; acuerdos comerciales.",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Fase III – Consolidación (2030–2034)",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Optimización proceso/tecnología; biodigestores piloto; certificación/calidad.",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Fase IV – Sostenibilidad (2034–2036)",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "50 t/mes; mercados consolidados; operación eficiente.",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "6. Gestión de riesgos",
+        "es_titulo": true
+      },
+      {
+        "tipo": "tabla",
+        "datos": [
+          [
+            "Riesgo",
+            "Mitigación"
+          ],
+          [
+            "Baja separación en la fuente",
+            "Cultura y Educación intensiva; incentivos; seguimiento sectorizado."
+          ],
+          [
+            "Calidad del compost",
+            "Protocolos, control de humedad/temperatura; cribado y pruebas."
+          ],
+          [
+            "Mercados inestables",
+            "Contratos con agricultores/viveros; precios competitivos."
+          ],
+          [
+            "Costos operativos",
+            "Optimización de rutas; mantenimiento preventivo; eficiencia energética."
+          ]
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "7. Trazabilidad normativa",
+        "es_titulo": true
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Resolución 0754 de 2014",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Decreto 1077 de 2015",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Resolución 2184 de 2019",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Decreto 596 de 2016",
+        "es_titulo": false
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Decreto Municipal 158 de 2021",
+        "es_titulo": false
+      }
+    ]
+  },
+  "contacto": {
+    "municipio": "San Pedro",
+    "departamento": "Valle del Cauca",
+    "alcaldia": "Alcaldía Municipal de San Pedro",
+    "secretaria": "Secretaría de Planeación e Infraestructura",
+    "prestador_servicio": "San Pedro Limpia S.A. E.S.P.",
+    "autoridad_ambiental": "Corporación Autónoma Regional del Valle del Cauca (CVC)",
+    "direccion": "Municipio de San Pedro, Valle del Cauca, Colombia",
+    "telefono": "Información disponible en la Alcaldía Municipal",
+    "email": "Información disponible en la Alcaldía Municipal",
+    "web": "Información disponible en la Alcaldía Municipal"
+  },
+  "imagenes": {
+    "logos": [],
+    "fotos": [
+      {
+        "filename": "FOTOS_647a15f9_1.jpg",
+        "path": "/pgirs_images/fotos/FOTOS_647a15f9_1.jpg",
+        "source": "FOTOS"
+      },
+      {
+        "filename": "FOTOS_bb68a2e3_2.jpg",
+        "path": "/pgirs_images/fotos/FOTOS_bb68a2e3_2.jpg",
+        "source": "FOTOS"
+      },
+      {
+        "filename": "FOTOS_52d08b56_3.jpg",
+        "path": "/pgirs_images/fotos/FOTOS_52d08b56_3.jpg",
+        "source": "FOTOS"
+      },
+      {
+        "filename": "FOTOS_b76a653c_4.jpg",
+        "path": "/pgirs_images/fotos/FOTOS_b76a653c_4.jpg",
+        "source": "FOTOS"
+      },
+      {
+        "filename": "FOTOS_64a7e773_5.jpg",
+        "path": "/pgirs_images/fotos/FOTOS_64a7e773_5.jpg",
+        "source": "FOTOS"
+      },
+      {
+        "filename": "FOTOS_3fa84bc0_6.jpg",
+        "path": "/pgirs_images/fotos/FOTOS_3fa84bc0_6.jpg",
+        "source": "FOTOS"
+      },
+      {
+        "filename": "FOTOS_5cd4c16c_7.jpg",
+        "path": "/pgirs_images/fotos/FOTOS_5cd4c16c_7.jpg",
+        "source": "FOTOS"
+      }
+    ],
+    "diagramas": [],
+    "graficos": [],
+    "otros": []
+  },
+  "metadata": {
+    "version": "1.0",
+    "fecha_actualizacion": "2025",
+    "periodo_vigencia": "2025-2036",
+    "documentos_fuente": [
+      "PGIRS_San_Pedro_2025-2036_FINAL.docx",
+      "Programa_Inclusion_Recicladores_SanPedro_2025-2036_AJUSTADO_PORTADA_LOGOS_APA.docx",
+      "Programa_Participacion_Gobernanza_SanPedro_2025-2036_PUBLICACION.docx",
+      "Programa_Cultura_Educacion_SanPedro_2025-2036_PUBLICACION.docx",
+      "PGIRS_Trazabilidad_Proceso_Construccion.docx",
+      "FOTOS PGIRS_v2.docx"
+    ],
+    "total_imagenes": 7,
+    "estructura": {
+      "inicio": "Información general, presentación y objetivos del PGIRS",
+      "diagnostico": "Situación actual, problemáticas y análisis del municipio",
+      "estrategias": "Líneas estratégicas, metas y acciones del plan",
+      "programas": "Programas específicos: inclusión de recicladores, participación y gobernanza, cultura y educación",
+      "trazabilidad": "Proceso de construcción y desarrollo del PGIRS",
+      "contacto": "Información de contacto del municipio y entidades relacionadas",
+      "imagenes": "Imágenes, fotos y logos extraídos de los documentos"
+    }
+  },
+  "resumen_ejecutivo": {
+    "titulo": "Resumen Ejecutivo - PGIRS San Pedro 2025-2036",
+    "municipio": "San Pedro, Valle del Cauca",
+    "periodo": "2025-2036",
+    "generacion_actual": "3.18 toneladas/día",
+    "produccion_per_capita": "0.413 kg/habitante-día",
+    "composicion": {
+      "organicos": "66%",
+      "reciclables": "20%",
+      "inservibles": "14%"
+    },
+    "potencial_aprovechamiento": "86%",
+    "cobertura_urbana": "100%",
+    "cobertura_rural": "60-75%",
+    "programas_principales": [
+      "Participación Ciudadana y Gobernanza Ambiental",
+      "Inclusión Social de Recicladores",
+      "Cultura y Educación Ambiental Innovadora",
+      "Gestión y Aprovechamiento de Residuos Orgánicos (PGARO)"
+    ],
+    "meta_principal": "Aprovechar el 80% de la fracción orgánica para 2036"
+  }
+}
