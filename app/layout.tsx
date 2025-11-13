@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     siteName: 'PGIRS San Pedro',
     images: [
       {
-        url: '/og-image.png',
+        url: 'https://pgirs-sanpedro.vercel.app/og-image.png',
         width: 1200,
         height: 630,
         alt: 'PGIRS San Pedro - Alcaldía Municipal de San Pedro, Valle del Cauca',
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
     title: 'PGIRS San Pedro Valle del Cauca 2025-2036',
     description:
       'Plan de Gestión Integral de Residuos Sólidos - Cartilla Digital Interactiva del Municipio de San Pedro, Valle del Cauca',
-    images: ['/og-image.png'],
+    images: ['https://pgirs-sanpedro.vercel.app/og-image.png'],
   },
   icons: {
     icon: '/favicon.svg',
