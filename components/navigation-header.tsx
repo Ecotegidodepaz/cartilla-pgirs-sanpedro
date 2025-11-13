@@ -1,4 +1,3 @@
-
 'use client';
 
 import React from 'react';
@@ -39,13 +38,17 @@ export default function NavigationHeader({ currentSection, onSectionChange }: Na
         <div className="flex items-center justify-between h-16">
           {/* Logo and Title */}
           <div className="flex items-center space-x-3">
-            <div className="w-10 h-10 bg-green-600 rounded-lg flex items-center justify-center">
-              <svg className="w-6 h-6 text-white" viewBox="0 0 24 24" fill="currentColor">
-                <path d="M12 2L13.09 8.26L22 9L13.09 15.74L12 22L10.91 15.74L2 9L10.91 8.26L12 2Z"/>
-              </svg>
-            </div>
+            {/* Logo de la Alcaldía */}
+            <Image
+              src="/logos/logo-alcaldia.png"
+              alt="Alcaldía Municipal de San Pedro"
+              width={40}
+              height={40}
+              className="h-10 w-auto object-contain"
+              priority
+            />
             <div className="hidden sm:block">
-              <h1 className="text-lg font-bold text-gray-900">PGIRS San Pedro</h1>
+              <h1 className="text-lg font-bold text-gray-900">Cartilla WEB PGIRS San Pedro</h1>
               <p className="text-xs text-gray-600">Valle del Cauca 2025-2036</p>
             </div>
           </div>
