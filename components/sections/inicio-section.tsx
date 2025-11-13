@@ -1,4 +1,3 @@
-
 'use client';
 
 import React from 'react';
@@ -159,10 +158,19 @@ export default function InicioSection() {
             </h2>
             
             <div className="grid md:grid-cols-3 gap-8">
+              {/* Alcaldía */}
               <div className="bg-white rounded-xl shadow-lg p-6 hover:shadow-xl transition-shadow duration-300">
-                <div className="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
-                  <Building2 className="w-8 h-8 text-blue-600" />
+                {/* Logo arriba de la tarjeta */}
+                <div className="flex justify-center mb-4">
+                  <Image
+                    src="/logos/logo-alcaldia.png"   // cambia el nombre si es distinto
+                    alt="Alcaldía Municipal de San Pedro"
+                    width={160}
+                    height={64}
+                    className="h-16 w-auto object-contain"
+                  />
                 </div>
+                
                 <h3 className="text-lg font-semibold text-gray-900 mb-2">
                   Alcaldía Municipal de San Pedro
                 </h3>
@@ -172,10 +180,18 @@ export default function InicioSection() {
                 </p>
               </div>
 
+              {/* San Pedro Limpia */}
               <div className="bg-white rounded-xl shadow-lg p-6 hover:shadow-xl transition-shadow duration-300">
-                <div className="w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
-                  <Leaf className="w-8 h-8 text-green-600" />
+                <div className="flex justify-center mb-4">
+                  <Image
+                    src="/logos/logo-prestador.png"  // cambia el nombre si es distinto
+                    alt="San Pedro Limpia S.A. E.S.P."
+                    width={160}
+                    height={64}
+                    className="h-20 w-auto object-contain"
+                  />
                 </div>
+                
                 <h3 className="text-lg font-semibold text-gray-900 mb-2">
                   San Pedro Limpia S.A. E.S.P.
                 </h3>
@@ -185,10 +201,18 @@ export default function InicioSection() {
                 </p>
               </div>
 
+              {/* CVC */}
               <div className="bg-white rounded-xl shadow-lg p-6 hover:shadow-xl transition-shadow duration-300">
-                <div className="w-16 h-16 bg-emerald-100 rounded-full flex items-center justify-center mx-auto mb-4">
-                  <MapPin className="w-8 h-8 text-emerald-600" />
+                <div className="flex justify-center mb-4">
+                  <Image
+                    src="/logos/logo-cvc.png"        // cambia el nombre si es distinto
+                    alt="CVC - Corporación Autónoma Regional"
+                    width={160}
+                    height={64}
+                    className="h-16 w-auto object-contain"
+                  />
                 </div>
+                
                 <h3 className="text-lg font-semibold text-gray-900 mb-2">
                   CVC - Corporación Autónoma Regional
                 </h3>
