@@ -26,7 +26,7 @@ export const PRESENTATION_SCRIPT: PresentationSection[] = [
     duration: '3 minutos',
     segments: [
       {
-        text: 'Hola, bienvenidos. Mi nombre es Carlos, y en los próximos minutos seré su guía en la presentación oficial del Plan de Gestión Integral de Residuos Sólidos del municipio de San Pedro, Valle del Cauca, con horizonte 2025 a 2036.',
+        text: 'Hola, bienvenidos. Mi nombre es ARIEL, y en los próximos minutos seré su guía en la presentación oficial del Plan de Gestión Integral de Residuos Sólidos del municipio de San Pedro, Valle del Cauca, con horizonte 2025 a 2036.',
         action: 'pause',
         duration: 1
       },
@@ -46,7 +46,7 @@ export const PRESENTATION_SCRIPT: PresentationSection[] = [
         duration: 0.3
       },
       {
-        text: 'San Pedro Limpia S punto A E punto S punto P, como prestador del servicio público de aseo.',
+        text: 'San Pedro Limpia S punto A punto E punto S punto P punto, como prestador del servicio público de aseo.',
         action: 'pause',
         duration: 0.3
       },
@@ -264,7 +264,7 @@ export const PRESENTATION_SCRIPT: PresentationSection[] = [
         target: 'participacion'
       },
       {
-        text: 'El presupuesto total del PGIRS en su escenario moderado es de 10 mil 43 millones de pesos para el periodo 2025 a 2036.',
+        text: 'El presupuesto total del PGIRS en su escenario moderado es de 11 mil 656 millones de pesos para el periodo 2025 a 2036.',
         action: 'highlight',
         target: 'budget-summary',
         duration: 0.5
@@ -275,8 +275,7 @@ export const PRESENTATION_SCRIPT: PresentationSection[] = [
         duration: 0.3
       },
       {
-        text: 'Programa número 1: Participación Ciudadana y Gobernanza Ambiental. Es un programa FORTALECIDO con un presupuesto de 1 mil 650 millones de pesos, que representa el 14 punto 8% del total.',
-        action: 'highlight',
+        text: 'Programa número 1: Participación Ciudadana y Gobernanza Ambiental. Es un programa FORTALECIDO con un presupuesto de mil 650 millones de pesos, que representa el 14 punto 8% del total.',action: 'highlight',
         target: 'programa-gobernanza',
         duration: 0.5
       },
@@ -286,7 +285,7 @@ export const PRESENTATION_SCRIPT: PresentationSection[] = [
         duration: 0.5
       },
       {
-        text: 'Programa número 2: Inclusión Social de Recicladores. Es un programa de CONTINUIDAD FORTALECIDA con 1 mil 200 millones de pesos, el 10 punto 8% del presupuesto.',
+        text: 'Programa número 2: Inclusión Social de Recicladores. Es un programa de CONTINUIDAD FORTALECIDA con mil 200 millones de pesos, el 10 punto 8% del presupuesto.',
         action: 'highlight',
         target: 'programa-recicladores',
         duration: 0.5
@@ -297,7 +296,7 @@ export const PRESENTATION_SCRIPT: PresentationSection[] = [
         duration: 0.5
       },
       {
-        text: 'Los recicladores pasarán de ingresos informales a ingresos mensuales promedio de 1 millón 400 mil pesos en 2036, con seguridad social y condiciones dignas de trabajo.',
+        text: 'Los recicladores pasarán de ingresos informales a ingresos formales de un salario minimo legal vigente para el año 2036, con seguridad social y condiciones dignas de trabajo.',
         action: 'pause',
         duration: 0.5
       },

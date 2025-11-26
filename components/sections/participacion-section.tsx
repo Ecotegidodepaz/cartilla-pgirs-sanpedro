@@ -162,7 +162,7 @@ export default function ParticipacionSection() {
             </h3>
             <div className="flex items-center justify-center space-x-2">
               <DollarSign className="w-8 h-8 text-green-600" />
-              <span className="text-4xl font-bold text-green-600">$11,143</span>
+              <span className="text-4xl font-bold text-green-600">$11,656</span>
               <span className="text-xl text-gray-500">millones COP</span>
             </div>
             <p className="text-gray-600 mt-2">Escenario Moderado - Reducción 25% sin comprometer efectividad</p>
